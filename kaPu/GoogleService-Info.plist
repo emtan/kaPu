@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>526095246164-1972ip8l3l1dmbkme9ksfharf70gj5dt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.526095246164-1972ip8l3l1dmbkme9ksfharf70gj5dt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBzrhYH1CK50Z7uhAEu7_9sbjjA8zUgt4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>526095246164</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.EmilyTan.kaPu</string>
+	<key>PROJECT_ID</key>
+	<string>kapu-fe6db</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kapu-fe6db.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:526095246164:ios:3f63fee2403e6ca1</string>
+	<key>DATABASE_URL</key>
+	<string>https://kapu-fe6db.firebaseio.com</string>
+</dict>
+</plist>
